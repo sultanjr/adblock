@@ -8,3 +8,6 @@
 ||s1.sharemydrive.xyz/assets/player-single.gif
 ||s1.sharemydrive.xyz/assets/top-left-jun.gif
 ||s1.sharemydrive.xyz/assets/top-right.gif
+||s1.sharemydrive.*/assets/*.gif$image
+||img.kotakputih.*/images/sloto/*.gif$image
+||img.kotakputih.*/images/idxbet/*.gif$image
