@@ -1,5 +1,7 @@
 ! ---------------------- advert blocking filters ----------------------!
 ||free.facebook.com^
+||dutafilm.art^
+||149.56.24.226^
 ||s1.sharemydrive.xyz/assets/top-right.gif
 ||img.kotakputih.casa/images/sloto/800x438-PROMO-DESEMBER2.gif
 ||s1.sharemydrive.xyz/assets/top-right.gif
