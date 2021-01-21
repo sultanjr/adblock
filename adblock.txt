@@ -1,0 +1,7 @@
+! ---------------------- advert blocking filters ----------------------!
+||free.facebook.com^
+||s1.sharemydrive.xyz/assets/top-right.gif
+||img.kotakputih.casa/images/sloto/800x438-PROMO-DESEMBER2.gif
+||s1.sharemydrive.xyz/assets/top-right.gif
+||img.kotakputih.casa/images/idxbet/XB-1920x100-promo-awal-tahun.gif
+||s1.sharemydrive.xyz/assets/ux777-header.gif
