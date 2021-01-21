@@ -6,3 +6,5 @@
 ||img.kotakputih.casa/images/idxbet/XB-1920x100-promo-awal-tahun.gif
 ||s1.sharemydrive.xyz/assets/ux777-header.gif
 ||s1.sharemydrive.xyz/assets/player-single.gif
+||s1.sharemydrive.xyz/assets/top-left-jun.gif
+||s1.sharemydrive.xyz/assets/top-right.gif
