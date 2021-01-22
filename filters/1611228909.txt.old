@@ -1,0 +1,19 @@
+! ---------------------- advert blocking filters ----------------------!
+||free.facebook.com^
+-ux777-header.gif|$image
+-lux111.gif|$image
+-below-player-jun.gif|$image
+-MILD88-Sidebar.gif|$image
+-xlbola-.gif|$image
+-800x438-PROMO-DESEMBER2.gif|$image
+-XB-1920x100-promo-awal-tahun.gif|$image
+||s1.sharemydrive.xyz^
+||img.kotakputih.casa^
+||https://s1.sharemydrive.xyz/assets/ux777-header.gif$image
+||https://s1.sharemydrive.xyz/assets/lux111.gif$image
+||https://s1.sharemydrive.xyz/assets/player-single.gif$image
+||https://img.kotakputih.casa/images/sloto/800x438-PROMO-DESEMBER2.gif$image
+||https://img.kotakputih.casa/images/idxbet/XB-1920x100-promo-awal-tahun.gif$image
+||https://s1.sharemydrive.xyz/assets/top-left-jun.gif$image
+||https://s1.sharemydrive.xyz/assets/top-right.gif$image
+||https://s1.sharemydrive.xyz/assets/below-player-jun.gif$image
